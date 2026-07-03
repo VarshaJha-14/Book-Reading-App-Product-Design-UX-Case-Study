@@ -33,5 +33,5 @@
 
 <img width="301" height="667" alt="image" src="https://github.com/user-attachments/assets/6a4602e1-4b1a-43de-849f-5bd1bd6c6027" />
 
-Note: Download the Wireframe PDF or click on drive link to view more:https://drive.google.com/file/d/1-rbB9go3TS9AZ-X3wDp-EpGQwJSTnC_d/view?usp=drive_link 
-:)
+Note: Download the Wireframe PDF or click on drive link to view more :)
+https://drive.google.com/file/d/1-rbB9go3TS9AZ-X3wDp-EpGQwJSTnC_d/view?usp=drive_link 
