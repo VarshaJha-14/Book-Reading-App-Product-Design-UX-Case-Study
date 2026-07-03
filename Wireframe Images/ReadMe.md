@@ -9,12 +9,18 @@
 
 
 **Book Buy Page**
+
+
 <img width="299" height="669" alt="image" src="https://github.com/user-attachments/assets/cefb9b42-4fff-4e1c-9afa-2ce9733f6dc3" />
 
 **Profile Sidebar**
+
+
 <img width="302" height="670" alt="image" src="https://github.com/user-attachments/assets/5947655e-6f68-4700-9f66-9e0ae83a6016" />
 
 **Review Page**
+
+
 <img width="302" height="670" alt="image" src="https://github.com/user-attachments/assets/d9a5d054-c47a-4500-aea1-316546a9ae88" />
 
 **Reading Page**
@@ -23,6 +29,8 @@
 
 
 **Collection Page**
+
+
 <img width="301" height="667" alt="image" src="https://github.com/user-attachments/assets/6a4602e1-4b1a-43de-849f-5bd1bd6c6027" />
 
 Note: Download the Wireframe PDF or click on drive link to view more :)
