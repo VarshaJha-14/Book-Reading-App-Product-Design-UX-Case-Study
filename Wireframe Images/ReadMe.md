@@ -15,9 +15,13 @@
 
 **Review Page**
 <img width="302" height="670" alt="image" src="https://github.com/user-attachments/assets/d9a5d054-c47a-4500-aea1-316546a9ae88" />
-#Reading Page
+
+**Reading Page**
+
 <img width="298" height="667" alt="image" src="https://github.com/user-attachments/assets/b0daf687-0b7d-4c93-9c4a-37a361c4ce92" />
-#Collection Page 
+
+
+**Collection Page**
 <img width="301" height="667" alt="image" src="https://github.com/user-attachments/assets/6a4602e1-4b1a-43de-849f-5bd1bd6c6027" />
 
 Note: Download the Wireframe PDF or click on drive link to view more :)
