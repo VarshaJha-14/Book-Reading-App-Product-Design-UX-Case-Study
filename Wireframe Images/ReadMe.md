@@ -1,4 +1,4 @@
-###App Opening Page
+**App Opening Page**
 
 
 <img width="301" height="667" alt="image" src="https://github.com/user-attachments/assets/3a755b60-3293-489b-88c7-2d7fa0c2affb" />
